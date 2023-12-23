@@ -1,0 +1,15 @@
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/bin/Debug/net6.0/HTTPServer
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/bin/Debug/net6.0/HTTPServer.deps.json
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/bin/Debug/net6.0/HTTPServer.runtimeconfig.json
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/bin/Debug/net6.0/HTTPServer.dll
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/bin/Debug/net6.0/HTTPServer.pdb
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.csproj.AssemblyReference.cache
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.AssemblyInfoInputs.cache
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.AssemblyInfo.cs
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.csproj.CoreCompileInputs.cache
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.dll
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/refint/HTTPServer.dll
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.pdb
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/HTTPServer.genruntimeconfig.cache
+/Users/catherinestafford/Desktop/HTTPServer/HTTPServer/HTTPServer/obj/Debug/net6.0/ref/HTTPServer.dll
